@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir hello
+chmod u+x
